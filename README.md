@@ -1,10 +1,10 @@
-###############################
-#   WELCOME TO MY REPOSITORY  #
-###############################
+############################
+#   Welcome my repository  #
+############################
 
-👋 Hi, I’m @CristoAltran
-👀 I’m interested in share code
-🌱 I’m currently learning python and others
+* 👋 Hi, I’m @CristoAltran
+* 👀 I’m interested in share code
+* 🌱 I’m currently learning python and others
 
 CODES
 
